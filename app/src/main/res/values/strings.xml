@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">WordFindPuzzle</string>
+
+    <string name="app_id">1094729792510</string>
+    <string name="leaderboard_id">CgkI_vfrl-4fEAIQAQ</string>
+    <string name="please_wait">Please wait ...</string>
+    <string name="google_plus_warning">You must be logged in to send notes and see high scores.</string>
+    <string name="google_plus_warning1">You must have a Google+ account to sign in.</string>
+    <string name="game_title">Infinite word Search Puzzle</string>
+    <string name="no_internet_connection">Please check your internet connection.</string>
+    <string name="error">Error</string>
+    <string name="game_problem">Please check your internet connection.</string>
+    <string name="start_game">Play</string>
+    <string name="high_scores">High scores</string>
+    <string name="logout">Disconnect Google+</string>
+    <string name="words">Words list</string>
+    <string name="time">Time</string>
+    <string name="score">SCORE</string>
+    <string name="exit_game_message">Exit game ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">no</string>
+    <string name="exit">Quitter</string>
+    <string name="exit_app_message">Voulez-vous fermer l\'application?</string>
+    <string name="login_error">An error occurred while connecting .. Please try again.</string>
+    <string name="submitting_score">The score is submitted ...</string>
+    <string name="all_times_high_score">Congratulations! Your best score of all time.</string>
+    <string name="weekly_high_score">Congratulations! Your best score in this week ..</string>
+    <string name="daily_high_score">Congratulations! Your best score today ..</string>
+    <string name="score_submission_error">Score can not be submitted.</string>
+    <string name="game_result">Result of the game</string>
+    <string name="submitted_score">Submitted score.</string>
+    <string name="main_menu">Menu</string>
+    <string name="new_game">New game</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>

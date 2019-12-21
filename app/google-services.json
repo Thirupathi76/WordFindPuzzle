@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "830602114989",
+    "firebase_url": "https://wordfindpuzzle-fa415.firebaseio.com",
+    "project_id": "wordfindpuzzle-fa415",
+    "storage_bucket": "wordfindpuzzle-fa415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830602114989:android:3843610f46113f92",
+        "android_client_info": {
+          "package_name": "com.thirudet.wordfindpuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830602114989-qds24jp2mu050f8rq43sjrmoqhhkgg6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thirudet.wordfindpuzzle",
+            "certificate_hash": "90d0ae276f52c2fccddfa3069cc01e1a09761ac6"
+          }
+        },
+        {
+          "client_id": "830602114989-s2ecl4kh18plqb459v8p2kpq5anb6n0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNjxZOOdw8DSHbiheEGbUq9yce3RtAqxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830602114989-s2ecl4kh18plqb459v8p2kpq5anb6n0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
